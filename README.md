@@ -1,0 +1,2 @@
+# SentencePairMatch_doc2vec-word2vec
+基于Doc2vec和Word2vec的句子对匹配方法
